@@ -6,7 +6,10 @@ An interactive, browser-based analytics dashboard for hospital patient data. Upl
 
 ## Live Demo
 
-Download [`Dr_Farooq_Hospital_X_Dashboard.html`](Dr_Farooq_Hospital_X_Dashboard.html) and open it in your browser. That's it.
+**Open directly in your browser — no download needed:**
+[https://drfarooqai.github.io/hospital-X-DataBoard/Dr_Farooq_Hospital_X_Dashboard.html](https://drfarooqai.github.io/hospital-X-DataBoard/Dr_Farooq_Hospital_X_Dashboard.html)
+
+Or download [`Dr_Farooq_Hospital_X_Dashboard.html`](Dr_Farooq_Hospital_X_Dashboard.html) and open it locally.
 
 ## Features
 
