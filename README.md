@@ -2,7 +2,9 @@
 
 An interactive, browser-based analytics dashboard for hospital patient data. Upload any Excel or CSV file with healthcare columns and instantly get filterable charts across demographics, trends, and costs — with **zero installation and zero backend**.
 
-![Dashboard preview](https://raw.githubusercontent.com/DrFarooqAi/hospital-X-DataBoard/main/preview.png)
+![Dashboard — full view](https://raw.githubusercontent.com/DrFarooqAi/hospital-X-DataBoard/main/main.PNG)
+
+![Upload screen](https://raw.githubusercontent.com/DrFarooqAi/hospital-X-DataBoard/main/First.PNG)
 
 ## Live Demo
 
